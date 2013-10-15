@@ -1,4 +1,4 @@
-ui_print("");
+ui_print("AnyKernel Updater by Koush");
 ui_print("");
 assert(
        getprop("ro.product.device") == "m7wlv" || getprop("ro.build.product") == "m7wlv" || 
